@@ -2,8 +2,8 @@
 <h3 align="center">🚀 Full-Stack Developer | Open Source Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <a href="[https://github.com/your-github-username](https://github.com/Prajapatidax)">
-    <!-- <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/> -->
+  <a href="https://github.com/Prajapatidax">
+     <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
 </p>
 
