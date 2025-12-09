@@ -1,79 +1,87 @@
-<h1 align="center">Hi 👋, I'm Prajapati Dax</h1>
-<h3 align="center">🚀 Full-Stack Developer | Open Source Enthusiast | Tech Explorer</h3>
+<h1 align="center">Hi 👋, I'm Dax Prajapati</h1>
+<h3 align="center">🚀 Full-Stack Web Developer | Open Source Explorer | Problem Solver</h3>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/Prajapatidax">
-     <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=Prajapatidax&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
-</p> -->
+</p>
 
 ---
 
-### 👨‍💻 About Me  
-- 🎓 Computer Engineering Student  
-- 💡 Passionate about **Web Development & Scalable Systems**  
-- 🔭 Currently working on **Full-Stack & Security-focused projects**  
-- 🌱 Learning **Advanced Backend, System Design & DevOps**  
-- 🤝 Open to **collaborations & open-source contributions**  
+## 👨‍💻 About Me  
+I’m a passionate **Computer Engineering student & Full-Stack Developer** who loves building scalable, secure, and user-friendly web applications. I focus on **clean code, modern UI**, and **real-world problem solving**.
+
+- 🔭 Currently building **full-stack & security-oriented projects**
+- 🌱 Learning **Advanced Backend, System Design & DevOps**
+- 💡 Interested in **Web Apps, SaaS & Open-Source**
+- 🤝 Open to **collaborations & internships**
 
 ---
 
-### 🛠 Tech Stack  
-**Frontend:**  
-`HTML` `CSS` `JavaScript` `Bootstrap` `Tailwind`  
+## 🛠 Tech Stack  
 
-**Backend:**  
-`Python` `Django` `Flask` `PHP`  
+### Frontend  
+`HTML` `CSS` `JavaScript` `Bootstrap` `Tailwind CSS`
 
-**Database:**  
-`MySQL` `SQLite`  
+### Backend  
+`Python` `Django` `Flask` `PHP`
 
-**Tools & Platforms:**  
-`Git` `GitHub` `Postman` `VS Code`  
+### Database  
+`MySQL` `SQLite`
+
+### Tools & Platforms  
+`Git` `GitHub` `VS Code` `Postman`
 
 ---
 
-### 🚀 Featured Projects  
+## 🚀 Featured Projects  
 
-#### 🗳 Online Voting System (Django)
-- Role-based access (Admin • Voter)
-- Secure one-vote-per-user mechanism
-- Real-time result analytics
-- Focused on **security & data integrity**
+### 🗳 Online Voting System (Django)  
+- Role-based access (Admin & Voter)
+- One-vote-per-user enforcement
+- Secure authentication & result analytics
+- Focused on **data integrity & security**
 
-#### 🛒 E-Commerce Website
-- User authentication & admin panel
-- Cart, checkout & order management
-- Modern UI with responsive design
+### 🛒 E-Commerce Website  
+- User & admin authentication
+- Product catalog, cart & order system
+- Responsive and modern UI
 
-#### 💬 Real-Time Chat Application (PHP)
-- Login & registration system
+### 💬 Real-Time Chat Application (PHP)  
+- Secure login & registration
 - User-to-user messaging
-- Media sharing & friend management
-- Built using **Bootstrap 5**
+- Media sharing & friend system
+- Built with **Bootstrap 5**
 
-#### 📋 Project Management System
+### 📋 Project Management System  
 - Task creation & assignment
-- Kanban-style project boards
-- Collaboration & progress tracking
+- Project boards (Trello-like)
+- Team collaboration & status tracking
 
-#### 🧠 Quiz Application
-- Timer-based scoring
-- Dynamic questions
-- Dark-themed modern UI
-- Explanations after each question
-
----
-
-
+### 🧠 Quiz Application  
+- Timer-based questions
+- Live scoring system
+- Dark-themed modern interface
+- Explanation after each question
 
 ---
 
-### 🌐 Connect With Me  
-- 💼 Portfolio: *https://daxprajapati.free.nf/*  
-- 📧 Email: *daxp1707@gmail.com*  
-- 💻 GitHub: https://github.com/Prajapatidax
-- 💻 linkedin:www.linkedin.com/in/dax-prajapati-92471b31b
+## 📈 GitHub Stats  
+<p align="center">
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=Prajapatidax&show_icons=true&theme=tokyonight" />
+  <img height="160"
+       src="https://github-readme-streak-stats.herokuapp.com?user=Prajapatidax&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+- 🌍 Portfolio: **<a href="https://daxprajapati.free.nf/" target="_blank">daxprajapati.free.nf</a>**
+- 💼 LinkedIn: **<a href="https://www.linkedin.com/in/dax-prajapati-92471b31b" target="_blank">Dax Prajapati</a>**
+- 💻 GitHub: **<a href="https://github.com/Prajapatidax">Prajapatidax</a>**
+- 📧 Email: **daxp1707@gmail.com**
 
 ---
 
