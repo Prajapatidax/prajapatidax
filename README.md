@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dax Prajapati</h1>
 <h3 align="center">🚀 Full-Stack Web Developer | Open Source Explorer | Problem Solver</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Prajapatidax">
     <img src="https://komarev.com/ghpvc/?username=Prajapatidax&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
-</p>
+</p> -->
 
 ---
 
@@ -67,13 +67,6 @@ I’m a passionate **Computer Engineering student & Full-Stack Developer** who l
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=Prajapatidax&show_icons=true&theme=tokyonight" />
-  <img height="160"
-       src="https://github-readme-streak-stats.herokuapp.com?user=Prajapatidax&theme=tokyonight" />
-</p>
 
 ---
 
