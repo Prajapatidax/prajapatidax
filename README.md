@@ -22,16 +22,16 @@ I’m a passionate *Computer Engineering student & Full-Stack Developer* who lov
 ## 🛠 Tech Stack  
 
 ### Frontend  
-HTML CSS JavaScript Bootstrap Tailwind CSS
+HTML | CSS | JavaScript | Bootstrap | Tailwind CSS
 
 ### Backend  
-Python Django Flask PHP
+Python | Django | Flask PHP
 
 ### Database  
-MySQL SQLite
+MySQL | SQLite
 
 ### Tools & Platforms  
-Git GitHub VS Code Postman
+Git | GitHub | VS Code | Postman
 
 ---
 
