@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 <b>About Me<b>  
 I’m a passionate *Computer Engineering student & Full-Stack Developer* who loves building scalable, secure, and user-friendly web applications. I focus on *clean code, modern UI, and **real-world problem solving*.
 
 - 🔭 Currently building *full-stack & security-oriented projects*
