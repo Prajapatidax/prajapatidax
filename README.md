@@ -3,7 +3,7 @@
 
  
   
-<img src="Dax.png" />
+<img src="dax.png" />
 
 
 ---
