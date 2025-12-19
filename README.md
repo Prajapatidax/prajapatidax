@@ -75,6 +75,7 @@ Git | GitHub | VS Code | Postman
 - 🌍 Portfolio: *<a href="https://daxprajapati.free.nf/" target="_blank">daxprajapati.free.nf</a>*
 - 💼 LinkedIn: *<a href="https://www.linkedin.com/in/dax-prajapati-92471b31b" target="_blank">Dax Prajapati</a>*
 - 💻 GitHub: *<a href="https://github.com/Prajapatidax">Prajapatidax</a>*
+- 💻LeetCode:*<a href="https://leetcode.com/u/Prajapatidax">dax1707</a>*
 - 📧 Email: *daxp1707@gmail.com*
 
 ---
