@@ -24,7 +24,7 @@ I’m a passionate *Computer Engineering student & Full-Stack Developer* who lov
 HTML | CSS | JavaScript | Bootstrap | Tailwind CSS
 
 ### Backend  
-Python | Django | Flask PHP
+Python | Django | Flask| PHP
 
 ### Database  
 MySQL | SQLite
