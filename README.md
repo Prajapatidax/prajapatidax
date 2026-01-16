@@ -27,7 +27,7 @@ HTML | CSS | JavaScript | Bootstrap | Tailwind CSS
 Python | Django | Flask| PHP
 
 ### Database  
-MySQL | SQLite
+MySQL | SQLite | MongoDB
 
 ### Tools & Platforms  
 Git | GitHub | VS Code | Postman
