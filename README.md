@@ -39,35 +39,59 @@ Git | GitHub | VS Code | Postman
 
 ## 🚀 Featured Projects  
 
+### 🧠 MindMate (Under Development)  
+- AI-powered mental wellness & mood assistance platform  
+- User-friendly dashboard with conversation history  
+- Focused on <b>mental health support & smart insights</b>  
+- Built using <b>Python, Flask/Django & modern frontend</b>
+
+### 📌 BuddyMark (Under Development)  
+- Smart bookmark & resource management system  
+- Organize links, notes, and learning resources  
+- Clean UI with category-based management  
+- Designed for <b>students & developers</b>
+
 ### 🗳 Online Voting System (Django)  
-- Role-based access (Admin & Voter)
-- One-vote-per-user enforcement
-- Secure authentication & result analytics
+- Role-based access (Admin & Voter)  
+- One-vote-per-user enforcement  
+- Secure authentication & result analytics  
 - Focused on <b>data integrity & security</b>
 
 ### 🛒 E-Commerce Website  
-- User & admin authentication
-- Product catalog, cart & order system
-- Responsive and modern UI
+- User & admin authentication  
+- Product catalog, cart & order system  
+- Responsive and modern UI  
 
 ### 💬 Real-Time Chat Application (PHP)  
-- Secure login & registration
-- User-to-user messaging
-- Media sharing & friend system
+- Secure login & registration  
+- User-to-user messaging  
+- Media sharing & friend system  
 - Built with <b>Bootstrap 5</b>
 
 ### 📋 Project Management System  
-- Task creation & assignment
-- Project boards (Trello-like)
-- Team collaboration & status tracking
+- Task creation & assignment  
+- Project boards (Trello-like)  
+- Team collaboration & status tracking  
 
 ### 🧠 Quiz Application  
-- Timer-based questions
-- Live scoring system
-- Dark-themed modern interface
-- Explanation after each question
+- Timer-based questions  
+- Live scoring system  
+- Dark-themed modern interface  
+- Explanation after each question  
 
 ---
+
+## 🧩 Small Projects  
+
+- 🍽 <b>Restaurant Management System</b>  
+- 📝 <b>Notes Taking App</b>  
+- 🔐 <b>Password Generator App</b>  
+- 📰 <b>Simple Blog CMS</b>  
+- ✅ <b>To-Do List App</b>  
+- ☁ <b>Weather App</b>  
+- 🖼 <b>Image Gallery</b>  
+- 🔗 <b>QR Code Generator</b>  
+
 
 ## 🌐 Connect With Me  
 - 🌍 Portfolio: <a href="https://daxprajapati.free.nf/" target="_blank">daxprajapati.free.nf</a>
