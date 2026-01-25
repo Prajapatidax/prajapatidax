@@ -57,7 +57,7 @@ Git | GitHub | VS Code | Postman
 - Secure authentication & result analytics  
 - Focused on <b>data integrity & security</b>
 
-### 🛒 E-Commerce Website  
+### 🛒 E-Commerce Website  (Django)
 - User & admin authentication  
 - Product catalog, cart & order system  
 - Responsive and modern UI  
@@ -68,12 +68,12 @@ Git | GitHub | VS Code | Postman
 - Media sharing & friend system  
 - Built with <b>Bootstrap 5</b>
 
-### 📋 Project Management System  
+### 📋 Project Management System  (PHP)
 - Task creation & assignment  
 - Project boards (Trello-like)  
 - Team collaboration & status tracking  
 
-### 🧠 Quiz Application  
+### 🧠 Quiz Application  (JavaScript)
 - Timer-based questions  
 - Live scoring system  
 - Dark-themed modern interface  
