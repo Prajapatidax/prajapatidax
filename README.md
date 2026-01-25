@@ -83,14 +83,14 @@ Git | GitHub | VS Code | Postman
 
 ## 🧩 Small Projects  
 
-- 🍽 <b>Restaurant Management System</b>  
-- 📝 <b>Notes Taking App</b>  
-- 🔐 <b>Password Generator App</b>  
-- 📰 <b>Simple Blog CMS</b>  
-- ✅ <b>To-Do List App</b>  
-- ☁ <b>Weather App</b>  
-- 🖼 <b>Image Gallery</b>  
-- 🔗 <b>QR Code Generator</b>  
+- 🍽 <b>Restaurant Management System (Django)</b>  
+- 📝 <b>Notes Taking App(PHP)</b>  
+- 🔐 <b>Password Generator App(Python)</b>  
+- 📰 <b>Simple Blog CMS(Flask)</b>  
+- ✅ <b>To-Do List App(PHP)</b>  
+- ☁ <b>Weather App(JavaScript)</b>  
+- 🖼 <b>Image Gallery(PHP)</b>  
+- 🔗 <b>QR Code Generator(Python)</b>  
 
 
 ## 🌐 Connect With Me  
