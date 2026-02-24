@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dax Prajapati</h1>
+<h1 align="center">Hi 👋, I'm  Prajapati Dax </h1>
 <h3 align="center">
 🚀 Full-Stack Web Developer | 🛡 Cyber Security Learner | Open Source Explorer | Problem Solver
 </h3>
