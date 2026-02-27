@@ -51,6 +51,14 @@ Git | GitHub | VS Code | Postman
 - Clean UI with category-based management  
 - Designed for <b>students & developers</b>
 
+
+### 🔐 TrustLock  (Python)
+- Zero-Trust file encryption web application
+- Secure AES-256 (GCM) encryption & decryption
+- No plaintext data stored on server (privacy-first)
+- Secure user authentication with hashed passwords
+- File upload, encryption, decryption & management system
+- Built with Flask, MongoDB & SQLite 
 ### 🗳 Online Voting System (Django)  
 - Role-based access (Admin & Voter)  
 - One-vote-per-user enforcement  
@@ -73,13 +81,7 @@ Git | GitHub | VS Code | Postman
 - Project boards (Trello-like)  
 - Team collaboration & status tracking  
 
-### 🔐 TrustLock  (Python)
-- Zero-Trust file encryption web application
-- Secure AES-256 (GCM) encryption & decryption
-- No plaintext data stored on server (privacy-first)
-- Secure user authentication with hashed passwords
-- File upload, encryption, decryption & management system
-- Built with Flask, MongoDB & SQLite  
+ 
 
 ---
 
