@@ -73,11 +73,13 @@ Git | GitHub | VS Code | Postman
 - Project boards (Trello-like)  
 - Team collaboration & status tracking  
 
-### 🧠 Quiz Application  (JavaScript)
-- Timer-based questions  
-- Live scoring system  
-- Dark-themed modern interface  
-- Explanation after each question  
+### 🔐 TrustLock  (Python)
+- Zero-Trust file encryption web application
+- Secure AES-256 (GCM) encryption & decryption
+- No plaintext data stored on server (privacy-first)
+- Secure user authentication with hashed passwords
+- File upload, encryption, decryption & management system
+- Built with Flask, MongoDB & SQLite  
 
 ---
 
@@ -90,7 +92,8 @@ Git | GitHub | VS Code | Postman
 - ✅ <b>To-Do List App(PHP)</b>  
 - ☁ <b>Weather App(JavaScript)</b>  
 - 🖼 <b>Image Gallery(PHP)</b>  
-- 🔗 <b>QR Code Generator(Python)</b>  
+- 🔗 <b>QR Code Generator(Python)</b>
+- 🧠 <b>Quiz Application (JavaScript)</b> 
 
 
 ## 🌐 Connect With Me  
