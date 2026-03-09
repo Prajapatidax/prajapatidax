@@ -99,7 +99,7 @@ Git | GitHub | VS Code | Postman
 
 
 ## 🌐 Connect With Me  
-- 🌍 Portfolio: <a href="https://daxprajapati.free.nf/" target="_blank">daxprajapati.free.nf</a>
+- 🌍 Portfolio: <a href="https://prajapatidax.co.in/" target="_blank">daxprajapat</a>
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/dax-prajapati-92471b31b" target="_blank">Dax Prajapati</a>
 - 💻 GitHub: <a href="https://github.com/Prajapatidax">Prajapatidax</a>
 - 💻 LeetCode: <a href="https://leetcode.com/u/dax1707">dax1707</a>
