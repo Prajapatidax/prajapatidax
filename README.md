@@ -3,7 +3,7 @@
 🚀 Full-Stack Web Developer | 🛡 Cyber Security Learner | Open Source Explorer | Problem Solver
 </h3>
 
-<img src="bg(dax).png" />
+
 
 ---
 
