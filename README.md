@@ -108,9 +108,9 @@ Git | GitHub | VS Code | Postman
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Prajapatidax&show_icons=true&theme=github_dark&hide_border=true"/>
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Prajapatidax&theme=github_dark&hide_border=true"/>
