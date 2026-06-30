@@ -105,6 +105,12 @@ Git | GitHub | VS Code | Postman
 - 💻 LeetCode: <a href="https://leetcode.com/u/dax1707">dax1707</a>
 - 📧 Email: <b>daxp1707@gmail.com</b>
 
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prajapatidax/Prajapatidax/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 ---
 
 <p align="center">
