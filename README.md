@@ -112,17 +112,13 @@ Git | GitHub | VS Code | Postman
 <img src="https://github-readme-stats.vercel.app/api?username=Prajapatidax&show_icons=true&theme=github_dark&hide_border=true"/>
 </p> -->
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Prajapatidax&theme=github_dark&hide_border=true"/>
-</p>
+
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajapatidax&theme=github-dark"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prajapatidax&theme=github_dark"/>
-</p>---
+
 
 <p align="center">
   ⭐ If you like my work, consider starring my repositories!
